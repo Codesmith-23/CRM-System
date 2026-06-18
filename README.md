@@ -1,4 +1,4 @@
-# DataStraw Support CRM
+# Support CRM System
 
 A comprehensive, full-stack Support Ticketing CRM engineered as a single-process monolith. 
 
